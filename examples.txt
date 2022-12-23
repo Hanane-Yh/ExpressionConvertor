@@ -1,0 +1,5 @@
+some examples for testing:
+(a^(b^((((c/d)/e)-f)^((x*y)-(m*n)))))
+abc*+d/
+a^a+a^a
+(A - B/C) * (A/K-L)
